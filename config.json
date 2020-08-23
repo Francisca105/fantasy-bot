@@ -1,0 +1,215 @@
+{
+    "mysql":{
+       "host":"51.81.12.174",
+       "user":"u148_jBAWVchOtG",
+       "password":"B7l8gtVctJ.+crqhgJ1PgQp1",
+       "database":"s148_fantasy"
+    },
+    "bot":{
+       "prefix":"fh!",
+       "token":"Njk3ODU4NTQ5NTQ3Nzk0NTMz.Xw24IQ.jZtbomSXqdUYmNmZDwzKJcRPWuQ"
+    },
+    "ids":{
+       "dona":"290092310002270218",
+       "roles":{
+          "cliente":"496832045058752513",
+          "suporte":"494919254789849098",
+          "equipe":"515724423626752031"
+       },
+       "canais":{
+          "pedir_tag_cliente":"732986134237413407"
+       },
+       "servidores":{
+          "server":"494909323550654465",
+          "equipe":"663583477404532736"
+       }
+    },
+    "textos":{
+       "footer":" • Fantasy Hosting",
+       "emojis":{
+          "estrelinha":"⚝",
+          "bola":"◦",
+          "ids":{
+             "offline":"597460008078409761",
+             "negado":"510537601103560727",
+             "online":"592845476647272531",
+             "certo":"703281963028578334",
+             "bloco":"545973909032534056",
+             "hospedagem": "613889544021868562",
+             "discord": "566692812247269392",
+             "site": "734070650620346450",
+             "mta": "734071169665335296",
+             "mine": "566692236461604895",
+             "cristal": "679033568151863332",
+             "setas": "683724301249282122"
+          }
+       }
+    },
+    "cores":{
+       "vermelho":"#fa0000",
+       "roxo":"#a200ff",
+       "roxo_escuro":"#5e0099",
+       "verde":"#2fff00",
+       "rosa_escuro":"#a3107a",
+       "amarelo_torrado": "#f5b942",
+       "azul_claro": "#4287f5"
+    },
+    "hospedagem":{
+         "termos":{
+            "termos":{
+            "1":"Termos de utilização e prestação de serviços referente a empresa FantasyHosting sediada na cidade de FOZ DO IGUAÇU - PR presta seus serviços de hospedagem na internet através do seu website acessado pelo seu endereço eletrônico ”fantasyhosting.com.br” ou “www.fantasyhosting.com.br”. ",
+            "2":"Em hipótese alguma vamos permitir o uso dos seguintes softwares/aplicativos/códigos em nossos servidores e hospedagem:\n\n```• Qualquer aplicativo que possa prejudicar outros usuários do serviço;\n• Qualquer aplicativo ou código malicioso que tenha como objetivo burlar alguma limitação imposta pela FANTASYHOST; Qualquer aplicativo que contenha conteúdo pornográfico ou que exponha dados de qualquer outra pessoa sem ser o responsável pela hospedagem;\n• Qualquer aplicativo que consuma banda o suficiente do servidor ao ponto de prejudicar outros clientes;\n• Qualquer aplicativo que viole outra clausula imposta neste arquivo de Termos de Serviço.\n• Servidores proxy públicos de qualquer tipo que qualquer pessoa possa utilizar utilizando credenciais fornecidas em sites ou sem uso de senha.\n• Mineração de moedas virtuais ou aplicativos similares que tenham finalidade realizar a mineração de bens virtuais sejam eles pontos ou moedas.\n• Uso de CPU em excesso.\n• Uso de SSD em excesso.```\n\nPara realizar a utilização de qualquer tipo de serviço de proxy ou similares o cliente deve entrar em contato com nosso suporte requerendo autorização para a utilização do mesmo estando sujeito a cancelamento imediato sem ressarcimento de quaisquer valores pagos caso tal autorização não for emitida.\nNos serviços de Hospedagem de Minecraft, Site, MTA, MC:PE e Revenda cPanel/WHM são liberados em alguns planos disco SSD Ilimitado, sim são ilimitado mas qualquer uso para armazenar arquivos ou usando como blockstorage poderá resultar uma suspensão sem aviso prévio. Qualquer tentativa de realizar qualquer ação que resulte em qualquer item citado acima a FANTASYHOST tem o direito de cancelar o serviço imediatamente sem ressarcimento de quaisquer valores pagos, reservamos o direito de cobrar uma taxa MÍNIMA de R$ 100,00, por danos possivelmente causados, os contratantes devem ser maiores de idade. ",
+            "3":"Ao adquirir um serviço de Hospedagem de Minecraft, Site, MTA, BotJS e MC:PE, você está ciente que está adquirindo um espaço em um servidor dedicado onde estão alocados outros servidores de outros clientes, sendo assim você está adquirindo um plano compartilhado, você tem direito de uso a 100% da memória e disco contratados.\nO uso de processamento é liberado até 120 núcleos de 2.6GHz no Estados Unidos e 12 núcleos de 3.60GHz no Brasil., caso você tenha alguma configuração que necessite informar a quantidade de núcleos de processamento, informe o numero 120 no Estados Unidos e 12 no Basil. não impõe nenhum limite de uso de CPU em termos de números, a partir do momento que o seu servidor estiver utilizando muito processamento a ponto de prejudicar o desempenho de servidores vizinhos, lembre-se, você está adquirindo uma vaga em um servidor dedicado e não um serviço dedicado.",
+            "4":"Ao adquirir um servidor VPS da FANTASYHOST você está adquirindo um servidor VPS do tipo KVM onde o Kernel é próprio, geralmente este tipo de virtualização e o mais utilizado por obter um melhor desempenho.\nVocê tem direito de uso a 100% da rede total do dedicado e tráfego ilimitado, os demais recursos são controlados pelo próprio software de virtualização.\nQualquer tentativa de utilizar o VPS para Ataques DoS ou DDoS resultará na suspensão e cancelamento do servidor VPS imediatamente assim que for identificado.\nQualquer tentativa de utilizar o VPS para Mineração de BitCoins ou outras moedas virtuais resultara na suspensão e cancelamento do servidor VPS imediatamente assim que for identificado.\nQualquer processo que o VPS do cliente esteja executando que prejudique outro cliente resultara na suspensão do VPS até que o problema seja resolvido pelo dono do servidor VPS.",
+            "5":"Caso a pessoa que comprou um de nossos serviços de Revenda caso ela for abrir uma micro empresa ou até mesma uma empresa de Hospedagem, a FantasyHosting não se responsabiliza em nenhum ato do que a micro empresa/empresa está fazendo, nós só fornecemos serviços a eles e não cuidamos de nenhuma empresa, apenas da FantasyHosting.",
+            "6":"A FANTASYHOST oferece um serviço de proteção ANTI-DDOS com limite de 800GBps no Estados Unidos e 10GBps no Brasil, você pode receber um ataque de qualquer tamanho sem limite de quantidade de ataques mitigados por mês sem nenhum custo adicional. A FANTASYHOST não garante que nossos firewalls capturem todos os pacotes malintencionados do tipo UDP e do tipo Layer 7 (HTTP-Request) por se tratar de um ataque generalizado onde geralmente são utilizados bot-nets (conexões reais).",
+            "7":"A FANTASYHOST não se responsabiliza em hipótese alguma em caso de perda de qualquer arquivo que esteja alocado em um de nossos serviços contratados, o cliente é responsável por manter um backup de seus arquivos em dia.\nA FANTASYHOST realiza backups periodicamente para maior segurança para os nossos clientes, em caso de perda de qualquer arquivo que seja de extrema importância entre em contato com nosso suporte imediatamente após a perda, uma taxa de serviço poderá ser cobrada se a reaquisição deste arquivo demandar muito tempo de um de nossos operadores.",
+            "8":"A FANTASYHOST oferece suporte ao cliente 24 horas por dia 365 dias por ano pelo site na forma de tickets e diretamente pelos nossos e-mails de contato oficiais, porém, não determinamos um prazo de resposta, tenha em mente que o nosso de atendimento comercial é de Segunda à Sexta das 10h às 18h.\nEventualmente você será respondido fora deste horário.",
+            "9":"Todos os serviços com exceção dos servidores dedicados são ativados e enviados automaticamente imediatamente após a confirmação de pagamento em nosso sistema. Os servidores dedicados possuem um prazo de entrega de até 72 horas ÚTEIS, sendo que após este período caso o serviço ainda não tenha sido entregue o cliente pode solicitar reembolso total do valor pago.",
+            "10":"Ao contratar qualquer serviço da FANTASYHOST você pode solicitar reembolso em até 7 dias após a ativação do serviço, exceto para os seguintes serviços:\nServidores dedicados: os servidores dedicados é uma linha de servidores a qual o cliente loca um servidor físico totalmente dedicado sem interferência externa onde o cliente e apenas ele possui acesso a tal serviço, após a ativação do mesmo não é possível solicitar qualquer tipo de reembolso. Domínio: Os domínios são contratados de revendas da Hostinger com total acesso a permissão deles para a revenda de domínios, eles não oferecem reembolso em domínios por isso a FantasyHosting declara que a permissão de pedir reembolso será negado. Casos como renovações o contratante não terá a garantia de reembolso ao valor total pago; referente a problemas técnicos, nossa equipe avaliará caso a caso e decidirá, baseado na preferência do cliente e na legislação pertinente, o que será melhor para ambos. Após o cancelamento de um serviço contratado ou o recebimento do reembolso você estará na BlackList da FantasyHosting, cláusula 15.",
+            "11":"A FANTASYHOST jamais em hipótese alguma vai pedir qualquer tipo de senha de nossos serviços.\nTodos os seus arquivos são sigilosos e todo o acesso ao site e criptografado por um Certificado SSL de altíssima segurança, o mesmo utilizado por muitos bancos. A FANTASYHOST somente vai liberar acesso a logs de arquivos de contas de clientes caso uma ação judicial for movida contra a FANTASYHOST, por favor esteja ciente de todos os seus atos utilizando nossos serviços. ",
+            "12":"A FANTASYHOST reserva o direito de suspender e cancelar qualquer serviço que não venha a ter um pagamento dentro dos limites da data de vencimento.\nO cliente tem até o dia do vencimento do serviço para efetuar o pagamento sem taxas, após o vencimento da fatura vamos aplicar uma taxa de atraso por mais 3 (três) dias após o vencimento antes de ser suspenso o serviço, após 5 dias de vencimento o serviço será cancelado e todos os arquivos serão automaticamente apagados do sistema, caso você tenha um problema com o seu meio de pagamento, abra um ticket em nosso site para que o caso seja tratado de acordo com a situação.\nApós a conta ser suspensa, todo o acesso aos arquivos do servidor e painel de controle são bloqueados, para restaurar o acesso basta efetuar o pagamento da fatura.\nA FANTASYHOST não se responsabiliza por perda de arquivos desta maneira, sendo que disponibilizamos um limite de 5 dias após o vencimento para a regularização da conta.",
+            "13":"Qualquer uma das partes poderá rescindir o presente contrato a qualquer momento durante seu período de vigência, mediante cancelamento do serviço.\nSem prejuízo das cláusulas anteriores, poderá a FANTASYHOST, a seu exclusivo critério, negar a renovação de um serviço ativo respeitando a data de vencimento do mesmo ou negar a prestação de um novo serviço efetuando um reembolso integral do valor pago pelo cliente.",
+            "14":"Após a abertura de disputa em qualquer método de pagamento na empresa a FantasyHosting declara que terá toda permissão de suspender seu servidor e não reembolsa-lo caso a perda da disputa, serviços com abertura de disputa será cancelado e sua conta banida de nosso site da FantasyHosting e todos produtos contratados cancelados. ",
+            "15":"A BlackList ela permite de a FantasyHost suspender todos seus produtos ativos após o recebimento do reembolso isso é válido para todos serviços da FantasyHost, será fechada sua conta em nosso site e seu IP bloqueado de entrar em nosso sistema.",
+            "16":"Nós vendemos serviços como Hospedagem de Minecraft, Hospedagem de NodeJS, Hospedagem de MC:PE, Hospedagem de Site, Hospedagem de MTA, Revenda cPanel/WHM, Revenda de VPS, Servidores Dedicados e Cloud/VPS.",
+            "17":"Você deve revisar a versão mais atual dos termos a qualquer momento nesta página. Reservamonos o direito, a nosso exclusivo critério, de atualizar, alterar ou substituir qualquer parte destes termos publicando atualizações e alterações em nosso site. É da sua responsabilidade verificar periodicamente o nosso site em busca de alterações. ",
+            "18":"A cada dia de indisponibilidade serviçal, o cliente receberá dois dias de bônus (um dia referente ao tempo em que o serviço permaneceu indisponível e outro como forma de recompensa pela intercorrência). Tal bônus deverá ser solicitado no mesmo dia, caso contrário será inválido.",
+            "19":"Quaisquer desobediências para com o código de conduta acima redigido poderão resultar no cancelamento de seus serviços ou até mesmo trazer consequências jurídicas indesejadas.",
+            "20":"Não possuem qualquer tipo de garantia e podem ser cancelados a qualquer tempo, ainda que imotivadamente, mediante aviso prévio de 24 horas úteis. "
+         },
+         "titulos":{
+            "1":"1. A empresa:",
+            "2":"2. Conteúdo não permitido:",
+            "3":"3. Uso de Hardware Minecraft/MTA/BotJS/Site/MC:PE:",
+            "4":"4. Uso de Hardware VPS:",
+            "5":"5. Revenda cPanel & WHM/Revenda de VPS/Dedicados:",
+            "6":"6. Proteção Anti-DDOS:",
+            "7":"7. Arquivos e Backups:",
+            "8":"8. Suporte ao Cliente:",
+            "9":"9. Prazo de Entrega:",
+            "10":"10. Politica de Reembolso:",
+            "11":"11. Politica de Privacidade:",
+            "12":"12. Suspensão e Cancelamento:",
+            "13":"13. Encerramento de Contrato:",
+            "14":"14. Abertura de disputa:",
+            "15":"15. BlackList:",
+            "16":"16. Serviços:",
+            "17":"17. Alterações aos termos:",
+            "18":"18. Acréscimo por downtime:",
+            "19":"19. Consequências:",
+            "20":"20. Política de Serviços Gratuitos:"
+         },
+         "data":"17 de julho de 2020"
+      },
+       "preços":{
+         "botjs":{
+            "FH-BOT .01": "R$ 1,00",
+            "FH-BOT .02": "R$ 2,00",
+            "FH-BOT .03": "R$ 3,00",
+            "FH-BOT .04": "R$ 12,00"
+         },
+         "sites":{
+            "FH-SITES .01": "R$ 3,00",
+            "FH-SITES .02": "R$ 6,00", 
+            "FH-SITES .03": "R$ 9,00",
+            "FH-SITES .04": "R$ 64,00"
+         },
+         "mta":{
+            "100 SLOTS": "R$ 10,00",
+            "200 SLOTS": "R$ 20,00",
+            "300 SLOTS": "R$ 30,00",
+            "400 SLOTS": "R$ 40,00",
+            "1024 Slots": "R$ 80,00"
+         },
+         "minecraft":{
+            "br":{
+               "1gb": "R$ 9.99",
+               "2gb": "R$ 15,99",
+               "3gb": "R$ 19,99",
+               "4gb": "R$ 25,99"
+            },
+            "us":{
+               "1gb": "R$ 7.99",
+               "2gb": "R$ 9,99",
+               "3gb": "R$ 13,99",
+               "4gb": "R$ 16,99"
+            }
+         },
+         "cloud":{
+            "br":{
+               "FH-VPS-BR .01": "R$ 38,00",
+               "FH-VPS-BR .02": "R$ 76,00",
+               "FH-VPS-BR .03": "R$ 114,00",
+               "FH-VPS-BR .04": "R$ 152,00",
+               "FH-VPS-BR .05": "R$ 190,00",
+               "FH-VPS-BR .06": "R$ 215,00",
+               "FH-VPS-BR .07": "R$ 266,00",
+               "FH-VPS-BR .08": "R$ 430,00"
+            },
+            "us":{
+               "FH-VPS-US .01": "R$ 20,00",
+               "FH-VPS-US .02": "R$ 40,00",
+               "FH-VPS-US .03": "R$ 60,00",
+               "FH-VPS-US .04": "R$ 80,00",
+               "FH-VPS-US .05": "R$ 105,00",
+               "FH-VPS-US .06": "R$ 150,00",
+               "FH-VPS-US .07": "R$ 230,00",
+               "FH-VPS-US .08": "R$ 310,00"
+            }
+         },
+         "mcpe":{
+            "FH-MC:PE .01": "R$ 3,50",
+            "FH-MC:PE .02": "R$ 6,50",
+            "FH-MC:PE .03": "R$ 8,00",
+            "FH-MC:PE .04": "R$ 10,00",
+            "FH-MC:PE .05": "R$ 13,00",
+            "FH-MC:PE .06": "R$ 15,00",
+            "FH-MC:PE .07": "R$ 18,00",
+            "FH-MC:PE .08": "R$ 21,00",
+            "FH-MC:PE .09": "R$ 24,00",
+            "FH-MC:PE .10": "R$ 26,00"
+         },
+         "combo":{
+            "br":{
+               "FH-COMBO-BR .16": "R$ 124,99",
+               "FH-COMBO-BR .24": "R$ 159,99",
+               "FH-COMBO-BR .32": "R$ 199,99"
+            },
+            "us":{
+               "FH-COMBO-US .16": "R$ 99,99",
+               "FH-COMBO-US .24": "R$ 124,99",
+               "FH-COMBO-US .32": "R$ 169,99"
+            }
+         }
+       },
+       "links":{
+          "site":"https://fantasyhosting.com.br/",
+          "mcpainel1":"https://panel.fantasy.ovh/",
+          "mcpainel2":"https://painel2.fantasy.ovh/",
+          "ips":{
+             "inter1": "01.fantasy.ovh",
+             "inter2": "02.fantasy.ovh",
+             "inter3": "03.fantasy.ovh",
+             "inter4": "04.fantasy.ovh",
+             "inter5": "05.fantasy.ovh",
+             "interjs1": "botjs.fantasy.ovh",
+             "interjs2": "botjs.02.fantasy.ovh",
+             "br1": "02.fh-br.host",
+             "portas":{
+                "inter1": 8085,
+                "inter2": 8080,
+                "inter3": 8080,
+                "inter4": 8086,
+                "inter5": 8080,
+                "interjs1": 8084,
+                "interjs2": 8087,
+                "br1": 8081
+             }
+          }
+       },
+       "servidor_mine":"redefantasy.net"
+    },
+    "dona":"290092310002270218",
+    "joao": "418474535164051491"
+ }
